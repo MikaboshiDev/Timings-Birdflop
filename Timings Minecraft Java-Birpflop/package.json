@@ -1,0 +1,28 @@
+{
+  "name": "botflop",
+  "version": "2.1",
+  "description": "Discord Bot for server hosts, devs, and admins. Analyzes timings reports & uploads text files to a bin. Developed by https://birdflop.com.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pemigrade/botflop.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.1.2",
+    "dotenv": "^16.0.1",
+    "eslint": "^8.20.0",
+    "fs": "^0.0.1-security",
+    "hastebin": "^0.2.1",
+    "pbf": "^3.2.1",
+    "winston": "^3.8.1",
+    "yaml": "^2.1.1"
+  }
+}

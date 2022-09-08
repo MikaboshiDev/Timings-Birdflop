@@ -1,0 +1,26 @@
+[20:49:34 [32minfo[39m]: Logger started
+[20:49:36 [32minfo[39m]: 5 commands loaded
+[20:49:36 [32minfo[39m]: Bot logged in
+[20:49:38 [32minfo[39m]: 3 event listeners loaded
+[20:49:40 [32minfo[39m]: Bot started!
+[20:49:40 [32minfo[39m]: Done (9.657s)! I am running!
+[20:49:53 [32minfo[39m]: Qin Shi Huang  悟#0001 issued slash command: /timings https://timings.aikar.co/dev/?id=da83fd14e52444d3884236a906edff02, in ☯ 𝐎𝐫𝐢𝐞🅽𝐭𝐚𝐥 𝐂🅾𝐦𝐦𝐮𝐧🅸𝐭𝐲  ☯
+[20:49:54 [32minfo[39m]: Timings analyzed from Qin Shi Huang  悟#0001 (679560282929889331): https://timings.aikar.co/dev/?id=da83fd14e52444d3884236a906edff02
+[20:49:54 [31merror[39m]: ReferenceError: fetch is not defined
+    at analyzeTimings (C:\Users\Enigma Evolution\Desktop\TIMINGS\botflop-master\functions\analyzeTimings.js:46:23)
+    at Object.execute (C:\Users\Enigma Evolution\Desktop\TIMINGS\botflop-master\commands\timings.js:16:32)
+    at module.exports (C:\Users\Enigma Evolution\Desktop\TIMINGS\botflop-master\events\interactionCreate.js:22:11)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[20:59:09 [32minfo[39m]: Logger started
+[20:59:09 [32minfo[39m]: 5 commands loaded
+[20:59:09 [32minfo[39m]: Bot logged in
+[20:59:09 [32minfo[39m]: 3 event listeners loaded
+[20:59:14 [32minfo[39m]: Bot started!
+[20:59:15 [32minfo[39m]: Done (5.671s)! I am running!
+[21:00:02 [32minfo[39m]: Qin Shi Huang  悟#0001 issued slash command: /timings https://timings.aikar.co/dev/?id=da83fd14e52444d3884236a906edff02, in ☯ 𝐎𝐫𝐢𝐞🅽𝐭𝐚𝐥 𝐂🅾𝐦𝐦𝐮𝐧🅸𝐭𝐲  ☯
+[21:00:03 [32minfo[39m]: Timings analyzed from Qin Shi Huang  悟#0001 (679560282929889331): https://timings.aikar.co/dev/?id=da83fd14e52444d3884236a906edff02
+[21:00:03 [31merror[39m]: ReferenceError: fetch is not defined
+    at analyzeTimings (C:\Users\Enigma Evolution\Desktop\TIMINGS\botflop-master\functions\analyzeTimings.js:46:23)
+    at Object.execute (C:\Users\Enigma Evolution\Desktop\TIMINGS\botflop-master\commands\timings.js:16:32)
+    at module.exports (C:\Users\Enigma Evolution\Desktop\TIMINGS\botflop-master\events\interactionCreate.js:22:11)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

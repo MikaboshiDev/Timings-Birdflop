@@ -1,0 +1,34 @@
+[16:02:32 [32minfo[39m]: Logger started
+[16:02:32 [32minfo[39m]: 5 commands loaded
+[16:02:32 [32minfo[39m]: Bot logged in
+[16:02:32 [32minfo[39m]: 3 event listeners loaded
+[16:02:34 [32minfo[39m]: Bot started!
+[16:02:35 [32minfo[39m]: Done (3.717s)! I am running!
+[16:59:24 [32minfo[39m]: Qin Shi Huang  悟#0001 issued slash command: /ping, in ☯ 𝐎𝐫𝐢𝐞🅽𝐭𝐚𝐥 𝐂🅾𝐦𝐦𝐮𝐧🅸𝐭𝐲  ☯
+[16:59:39 [31merror[39m]: unhandledRejection: Unknown Message
+DiscordAPIError[10008]: Unknown Message
+    at SequentialHandler.runRequest (C:\Users\Enigma Evolution\Desktop\botflop-master\botflop-master\node_modules\@discordjs\rest\dist\lib\handlers\SequentialHandler.cjs:287:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async SequentialHandler.queueRequest (C:\Users\Enigma Evolution\Desktop\botflop-master\botflop-master\node_modules\@discordjs\rest\dist\lib\handlers\SequentialHandler.cjs:99:14)
+    at async REST.request (C:\Users\Enigma Evolution\Desktop\botflop-master\botflop-master\node_modules\@discordjs\rest\dist\lib\REST.cjs:52:22)
+    at async MessageManager.edit (C:\Users\Enigma Evolution\Desktop\botflop-master\botflop-master\node_modules\discord.js\src\managers\MessageManager.js:166:15)
+[17:01:30 [32minfo[39m]: Logger started
+[17:01:31 [32minfo[39m]: 5 commands loaded
+[17:01:31 [32minfo[39m]: Bot logged in
+[17:01:32 [32minfo[39m]: 3 event listeners loaded
+[17:01:34 [32minfo[39m]: Bot started!
+[17:01:35 [32minfo[39m]: Done (6.828s)! I am running!
+[02:23:37 [32minfo[39m]: Logger started
+[02:23:39 [32minfo[39m]: 5 commands loaded
+[02:23:39 [32minfo[39m]: Bot logged in
+[02:23:39 [32minfo[39m]: 3 event listeners loaded
+[02:23:46 [32minfo[39m]: Bot started!
+[02:23:48 [32minfo[39m]: Done (13.521s)! I am running!
+[02:24:25 [32minfo[39m]: Qin Shi Huang  悟#0001 issued slash command: /timings https://spark.lucko.me/TTeZA9Y4ce, in ☯ 𝐎𝐫𝐢𝐞🅽𝐭𝐚𝐥 𝐂🅾𝐦𝐦𝐮𝐧🅸𝐭𝐲  ☯
+[02:24:27 [31merror[39m]: DiscordAPIError[10062]: Unknown interaction
+    at SequentialHandler.runRequest (C:\Users\Enigma Evolution\Desktop\botflop-master\botflop-master\node_modules\@discordjs\rest\dist\lib\handlers\SequentialHandler.cjs:287:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async SequentialHandler.queueRequest (C:\Users\Enigma Evolution\Desktop\botflop-master\botflop-master\node_modules\@discordjs\rest\dist\lib\handlers\SequentialHandler.cjs:99:14)
+    at async REST.request (C:\Users\Enigma Evolution\Desktop\botflop-master\botflop-master\node_modules\@discordjs\rest\dist\lib\REST.cjs:52:22)
+    at async ChatInputCommandInteraction.deferReply (C:\Users\Enigma Evolution\Desktop\botflop-master\botflop-master\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:68:5)
+    at async module.exports (C:\Users\Enigma Evolution\Desktop\botflop-master\botflop-master\events\interactionCreate.js:20:3)

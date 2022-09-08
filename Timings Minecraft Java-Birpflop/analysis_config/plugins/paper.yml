@@ -1,0 +1,101 @@
+ClearLag:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    Plugins that claim to remove lag actually cause more lag.
+LagAssist:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    LagAssist should only be used for analytics and preventative measures.
+    All other features of the plugin should be disabled.
+NoMobLag:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    Plugins that claim to remove lag actually cause more lag.
+ServerBooster:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    Plugins that claim to remove lag actually cause more lag.
+AntiLag:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    Plugins that claim to remove lag actually cause more lag.
+BookLimiter:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    You don't need BookLimiter as Paper already fixes all crash bugs.
+LimitPillagers:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    LimitPillagers is not useful in 1.15 and above.
+VillagerOptimiser:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    VillagerOptimiser is not useful in 1.15 and above.
+StackMob:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    Stacking mobs causes more lag.
+Stacker:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    Stacking mobs causes more lag.
+MobStacker:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    Stacking mobs causes more lag.
+WildStacker:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    Stacking mobs causes more lag.
+FastAsyncWorldEdit:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    FAWE has been known to cause issues.
+    Consider replacing FAWE with [Worldedit](https://enginehub.org/worldedit/#downloads).
+IllegalStack:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    You probably don't need IllegalStack as Paper already fixes all dupe and crash bugs.
+ExploitFixer:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    You probably don't need ExploitFixer as Paper already fixes all dupe and crash bugs.
+EntityTrackerFixer:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    You don't need EntityTrackerFixer as Paper already has its features.
+Orebfuscator:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    You don't need Orebfuscator as [Paper](https://gist.github.com/stonar96/ba18568bd91e5afd590e8038d14e245e) already has its features.
+GroupManager:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    GroupManager is an outdated permission plugin.
+    Consider replacing it with [LuckPerms](https://luckperms.net/download).
+PermissionsEx:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    PermissionsEx is an outdated permission plugin.
+    Consider replacing it with [LuckPerms](https://luckperms.net/download).
+bPermissions:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    bPermissions is an outdated permission plugin.
+    Consider replacing it with [LuckPerms](https://luckperms.net/download).
+PhantomSMP:
+- expressions:
+  - paper["world-settings"]["default"]["phantoms-only-attack-insomniacs"] == "false"
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    You probably don't need PhantomSMP as Paper already has its features.
+- expressions:
+  - paper["world-settings"]["default"]["phantoms-only-attack-insomniacs"] == "true"
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    You probably don't need PhantomSMP as Paper already has its features.
+    Enable phantoms-only-attack-insomniacs in paper.yml.
+PacketLimiter:
+  prefix: `<:VS_cancel:1006609599199186974>`
+  value: |-
+    You don't need PacketLimiter as Paper already has its features.
